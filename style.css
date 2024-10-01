@@ -1,10 +1,10 @@
 body {
 
-    background-color: #ff9933;
+    background-color: #33a1ff;
 
-    color: #8b5d00;
+    color: #003366;
 
-    font-family: "Mulish", sans-serif;
+    font-family: "Poppins", sans-serif;
 
     display: flex;
 
@@ -22,11 +22,11 @@ body {
 
 button {
 
-    background-color: #f5a623;
+    background-color: #5bc0eb;
 
-    color: #8b5d00;
+    color: #003366;
 
-    font-family: "Mulish", sans-serif;
+    font-family: "Poppins", sans-serif;
 
 }
 
